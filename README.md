@@ -6,7 +6,7 @@
 
 I'm Julián, a Software Engineer from Colombia 🇨🇴
 
-* Master's student in Computer Science with emphasis on Advanced Software Engineering
+* Master's in Computer Science with emphasis on Advanced Software Engineering
 
 # Stats 🌟
 
